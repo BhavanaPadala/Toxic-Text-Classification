@@ -7,9 +7,9 @@ The dataset for this project contains text that may be considered profane, vulga
 ## Expected Result :
 For each id in the test set, predict a probability for each of the six possible types of comment toxicity (toxic, severetoxic, obscene, threat, insult, identityhate). The columns must be in the same order as shown below. The file should contain a header and have the following format:
 
-id,toxic,severe_toxic,obscene,threat,insult,identity_hate
-00001cee341fdb12,0.5,0.5,0.5,0.5,0.5,0.5
-0000247867823ef7,0.5,0.5,0.5,0.5,0.5,0.5
+id,toxic,severe_toxic,obscene,threat,insult,identity_hate <br>
+00001cee341fdb12,0.5,0.5,0.5,0.5,0.5,0.5<br>
+0000247867823ef7,0.5,0.5,0.5,0.5,0.5,0.5<br>
 etc.
 
 ### Data Set :
